@@ -1,3 +1,7 @@
+# Portfolio
+
+This portfolio contains a sprint by sprint reflection of how our group project went. It includes my personal Professional and Technical proficiencies, and my thoughts on how I did, and how our team went as a whole. It documents my learning experience with new frameworks and languages.
+
 ## Sprint 1
 
 ### Professional Proficiency:
