@@ -123,3 +123,6 @@ Overall, I believe that our group project was a success. I believe I personally 
 
 I learnt a lot of new technical skills, as well as some valuable group skills. I learnt that simple asking if someone was on track wasn’t always enough and learnt how valuable it was to having working software as a measure of progress. The agile skills learnt throughout this project will be very helpful in a working environment.
 
+### CV
+
+<a href="James Grigg - CV" download>Download CV</a>
