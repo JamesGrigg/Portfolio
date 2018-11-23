@@ -125,4 +125,4 @@ I learnt a lot of new technical skills, as well as some valuable group skills. I
 
 ### CV
 
-<a href="James Grigg - CV" download>Download CV</a>
+<a href="James Grigg - CV.docx" download>Download CV</a>
