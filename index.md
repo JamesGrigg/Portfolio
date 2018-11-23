@@ -39,6 +39,7 @@ If I was going to do this again, I would definitely have opted in for using Boot
 
 One last thing I did in this sprint, was divided up our stylesheet into sections. Each section is based on elements specific to different pages. This allowed for easy control of the source code. A big part of keeping on track and up to date with every other member’s work, was to be able to easily navigate what they have done, and understand what they have done, so I suggested we start using more comments in our code for the more complex parts. In the end, I think I was one of the only members who tried to comment out parts of my work, but luckily due to being able to talk to each other regularly, I didn’t struggle to keep up with other member’s work.
 
+(Examples of this design can be seen in almost all of the screenshots provided in this report)
 
 ## Sprint 3
 
@@ -63,6 +64,10 @@ I ended up doing both the ability to add / edit public holidays as well as the a
 
 As Roy was unable to get some experience doing an Add / Edit page, we decided to ensure that he got something similar in a future sprint to make sure that he had a clearer understanding of Laravel. We created an Add / Edit page for a person to be added into the database. This would later help whoever was going to implement a Login system for the website and ended up being a very vital part of the website.
 
+![Image](images/AddHoliday.png)
+![Image](images/AddCourse.png)
+![Image](images/EditPage.png)
+
 
 ## Sprint 5
 
@@ -78,6 +83,8 @@ For me, all I ended up doing was reformatting the course offerings page to displ
 
 There wasn’t a lot more I could do for this sprint, which was fine at the time as we were on top of everything.
 
+![Image](images/CourseOfferings.png)
+
 
 ## Sprint 6
 
@@ -86,6 +93,10 @@ We decided to use this sprint as a “Final Functionality Sprint”. As I had pr
 
 ### Technical Proficiency: 
 After the previous sprint, due to a merge conflict, the course offerings had a small display bug, so I fixed that up and then we got onto the sprint. After that it was a matter of learning the last parts of Laravel for our project, which was to understand how to display all the information stored in our database, onto the screen. This was not difficult for us as we had done similar things in our Web papers, and it allowed me to efficiently display all the course offerings onto the course offerings page.
+
+For the display page, I read over some documentation on how to have a webpage display the information stored in a database. The documentation quickly told me the correct way to do this, and I was able to easily implement it. Reading the documentation provided me with a clear understanding of how I was going to achieve this, and reduced the trial and error which may have ended up happening. It also resulted in having the quickest and most efficient method.
+
+(Refer to screenshot above to see the outcome of this)
 
 
 ## Sprint 7
@@ -100,6 +111,11 @@ I took control of the mobile development side of things. I had no idea how to im
 
 The mobile side of the website is probably the thing I am most proud of from this website. I had never had to implement mobile responsiveness properly into a website before, as previously I had only had to do it for Web checkpoints or using WordPress which did It for me. After spending a lot of time researching how to do it, I found a lot of different methods I could use to get it working. I chose to use an Agent which would allow me to control specific parts of the website depending on which platform I wanted them to be displayed on. There was probably other method I could have used to increase the work not done, however I feel like this method was the ‘closest to home’ for everyone in the group to understand, as it used if statements as its core.
 
+![Image](images/MobileFAQ.png)
+![Image](images/MobileSemDates.png)
+This image shows that we don't lose any functionality between the desktop and mobile sites, the only thing different is how they display.
+![Image](images/MobileMenu.png)
+
 
 ## Final Sprint
 
@@ -112,6 +128,14 @@ By the end of this sprint, we had fixed up all the known bugs at the time. The w
 Personally, I ended up cleaning up the mobile side of the website. I knew that in the previous sprint, I had made the mobile site usable but there were aspects that didn’t flow super nicely on mobile. I tried fixing some of them up but unfortunately was unable to fix a couple of pages.
 
 This ‘sprint’ was rather small, it was only a week and a bit long, and was just to clean everything up. I believe we all cleaned up our website to a good standard and believed our client would like what we were able to present them.
+
+One thing I decided to change was on the mobile version of the FAW page, due to the smaller screen, it was a little harder to see which FAQ tabs had already been opened, and which tab you were currently reading, so to fix this, I changed the colour of the most recently opened tab to be grey, and the colour of the preiovusly opened tabs to be green to give a clear indication.
+
+And lastly, I fixed up some padding issues in parts of the website that had been forgotten about to ensure a much cleaner looking webite for our client.
+
+![Image](images/MobileFAQ2.png)
+![Image](images/Padding.png)
+
 
 ## Between Sprints
 
