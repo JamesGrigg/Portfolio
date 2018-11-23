@@ -1,6 +1,6 @@
 # Portfolio
 
-This portfolio contains a sprint by sprint reflection of how our group project went. It includes my personal Professional and Technical proficiencies, and my thoughts on how I did, and how our team went as a whole. It documents my learning experience with new frameworks and languages.
+This portfolio contains a sprint by sprint reflection of how our group project went. It includes my personal Professional and Technical proficiencies, and my thoughts on how I did, and how our team went as a whole. It documents my learning experience with new frameworks and languages. After each section below, there will be screenshots based off of what was talking about.
 
 ## Sprint 1
 
@@ -17,6 +17,8 @@ Lastly, the big part of this sprint was to learn how to be Agile. Agile developm
 
 ### Technical Proficiency:
 As I had previous knowledge of JavaScript, I took up the FAQ page for the first sprint. I had done a similar FAQ styled page in the past, so I had an idea of what I would be doing, but still had to re learn the basics of JavaScript to allow me to be able to manipulate my old code to my likings. In this initial sprint, I laid out a basic website design as well based on previous frameworks I had used to allow the team to get an idea of the styling we should use to try and keep things consistent. Set up basic directories for everyone to use to help reduce the amount of migration conflictions caused. As we hadn’t started in Laravel, we each had an html page and we just worked inside our own folders.
+
+![Image](FAQ.png)
 
 
 ## Sprint 2
