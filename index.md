@@ -64,7 +64,9 @@ I ended up doing both the ability to add / edit public holidays as well as the a
 
 As Roy was unable to get some experience doing an Add / Edit page, we decided to ensure that he got something similar in a future sprint to make sure that he had a clearer understanding of Laravel. We created an Add / Edit page for a person to be added into the database. This would later help whoever was going to implement a Login system for the website and ended up being a very vital part of the website.
 
-![Image](images/AddHoliday.png) ![Image](images/AddCourse.png)
+![Image](images/AddHoliday.png) 
+<img src='images/AddHoliday.png' width='100px'>
+![Image](images/AddCourse.png)
 ![Image](images/EditPage.png)
 
 
