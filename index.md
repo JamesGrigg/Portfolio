@@ -64,8 +64,7 @@ I ended up doing both the ability to add / edit public holidays as well as the a
 
 As Roy was unable to get some experience doing an Add / Edit page, we decided to ensure that he got something similar in a future sprint to make sure that he had a clearer understanding of Laravel. We created an Add / Edit page for a person to be added into the database. This would later help whoever was going to implement a Login system for the website and ended up being a very vital part of the website.
 
-<img src='images/AddHoliday.png' width='350px'> 
-<img src='images/AddCourse.png' width='350px'>
+<img src='images/AddHoliday.png' width='350px'> <img src='images/AddCourse.png' width='350px'>
 <img src='images/EditPage.png'>
 
 
@@ -112,7 +111,7 @@ I took control of the mobile development side of things. I had no idea how to im
 The mobile side of the website is probably the thing I am most proud of from this website. I had never had to implement mobile responsiveness properly into a website before, as previously I had only had to do it for Web checkpoints or using WordPress which did It for me. After spending a lot of time researching how to do it, I found a lot of different methods I could use to get it working. I chose to use an Agent which would allow me to control specific parts of the website depending on which platform I wanted them to be displayed on. There was probably other method I could have used to increase the work not done, however I feel like this method was the ‘closest to home’ for everyone in the group to understand, as it used if statements as its core.
 
 <img src='images/MobileFAQ.png' width='350px'> 
-<img src='images/MobileMenu.png' width='350px'> 
+<img src='images/MobileMenu.png' width='300px'> 
 
 ![Image](images/MobileSemDates.png)
 This image shows that we don't lose any functionality between the desktop and mobile sites, the only thing different is how they display.
