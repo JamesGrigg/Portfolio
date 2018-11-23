@@ -134,6 +134,7 @@ One thing I decided to change was on the mobile version of the FAW page, due to 
 And lastly, I fixed up some padding issues in parts of the website that had been forgotten about to ensure a much cleaner looking webite for our client.
 
 ![Image](images/MobileFAQ2.png)
+
 ![Image](images/Padding.png)
 
 
